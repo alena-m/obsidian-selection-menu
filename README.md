@@ -31,7 +31,7 @@ Supported LLM providers: OpenAI, Anthropic, Ollama.
 # Installation
 ```bash
 cd ~/my_obsidian_vault/.obsidian/plugins
-git pull https://github.com/alena-m/obsidian-selection-menu.git
+git clone https://github.com/alena-m/obsidian-selection-menu.git
 ```
 Enable plugin in Obsidian Settings => Comminity plugins
 
